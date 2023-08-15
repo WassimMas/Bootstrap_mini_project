@@ -1,0 +1,41 @@
+.circle{
+  position:absolute;
+  height:50px;
+  width:50px;
+  border-radius:40px;
+  border:3px solid white;
+  left:50%;
+  margin-left:-25px;
+  top: -30px;
+  background:#f8ca11;
+  display: flex;
+  justify-content:center;
+  align-items: center; 
+ 
+
+}
+
+.card{
+  position:relative;
+
+}
+
+.number {
+  
+  color: white;
+}
+.backgroundImage {
+  position: relative;
+  
+}
+.right {
+  position: absolute;
+  height: 320px;
+  right: 230px;
+  top: 100px;
+  z-index: 1;
+ }
+
+.left {
+  width: 900px;
+}
